@@ -25,3 +25,5 @@ CVE-2026-78408
 CVE-2026-78409
 CVE-2026-78410
 CVE-2026-97689
+# urllib3 2.7.0 in cached image layer; pinned >=2.8.0 in requirements, remove once cache rebuilds
+CVE-2026-97687
